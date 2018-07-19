@@ -1,0 +1,8 @@
+*.map
+*~
+.DS_Store
+.idea/
+/vendor*
+__MACOSX
+composer.lock
+Thumbs.db
